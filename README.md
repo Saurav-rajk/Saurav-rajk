@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav-rajk&label=Profile%20views&color=0e75b6&style=flat" alt="saurav-rajk" /> </p>
 
-- 🌱 I’m currently learning **Java,Web Development**
+- 🌱 I’m currently learning **C++,Web Development,DSA**
 
 - 📫 How to reach me **sanraj4356@gmail.com**
 
