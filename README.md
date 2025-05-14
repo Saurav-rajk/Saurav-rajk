@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav-rajk&label=Profile%20views&color=0e75b6&style=flat" alt="saurav-rajk" /> </p>
 
-- 🌱 I’m currently learning **C++,Web Development,DSA**
+- 🌱 I’m currently learning **C++, Web Development, DSA**
+- 🌱 I has learned  C++ and java language and my practice language is C++
+- 🌱 I am currently learning Node JS and DBMS in Web Devlopment
+- 💞️ I’m looking to collaborate some one who can help me in my projects
+- 📫 How to reach me just drop me mail or message
+i am doing UI/UX
 
 - 📫 How to reach me **sanraj4356@gmail.com**
 
